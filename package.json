@@ -1,0 +1,8 @@
+{
+  "name": "hardhat-note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:duongnd-183902/hardhat-note.git",
+  "author": "duongnd <duong.tnhp8386@gmail.com>",
+  "license": "MIT"
+}
