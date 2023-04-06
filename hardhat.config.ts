@@ -16,10 +16,13 @@ const config: HardhatUserConfig = {
         count: 10,
         accountsBalance: "100000000000000000000"
       },
-      gasPrice: 5*1e9,
+      // gasPrice: 5*1e9,
       initialBaseFeePerGas:0,
     },
   },
+  gasReporter: {
+    enabled: true,
+  }
 };
 
 

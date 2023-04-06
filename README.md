@@ -11,3 +11,6 @@ Add positionalPrams to access localhost from hardhat console.
 >npx hardhat console --network localhost.
 
 Add new network in metamask.
+
+
+gasPrice = min {Max fee, base fee + priority}
